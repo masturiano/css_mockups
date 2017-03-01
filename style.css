@@ -1,0 +1,54 @@
+#head{
+	width: 90%;
+	height: 88px;
+	padding: 0px;
+	margin: auto;
+	background-image: url("images/header.png");
+	background-repeat: no-repeat;
+	display: block;
+	top: -10px;
+	position: relative;
+}
+#nav{
+	width: 90%;
+	height: 42px;
+	padding: 0px;
+	margin: auto;
+	background-image: url("images/nav.png");
+	background-repeat: no-repeat;
+	display: block;
+	top: 0px;
+	position: relative;
+}
+#website-name{
+	width: 550px;
+	height: 47px;
+	padding: 0px;
+	margin: 20px 0px 20px 3px;
+	background-image: url("images/my_website_name.png");
+	background-repeat: no-repeat;
+	display: block;
+	position: absolute;
+}
+#content{
+	width: 90%;
+	height: 500px;
+	padding: 0px;
+	margin: auto;
+	background-image: url("images/content.png");
+	background-repeat: no-repeat;
+	display: block;
+	top: 0px;
+	position: relative;
+}
+#footer{
+	width: 90%;
+	height: 51px;
+	padding: 0px;
+	margin: auto;
+	background-image: url("images/footer.png");
+	background-repeat: no-repeat;
+	display: block;
+	top: 0px;
+	position: relative;
+}
